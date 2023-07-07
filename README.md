@@ -1,2 +1,2 @@
 # choose-number-carefully
-enjoy playing tic tac toe with your friends 
+C project, I have created the classic Tic Tac Toe game 
